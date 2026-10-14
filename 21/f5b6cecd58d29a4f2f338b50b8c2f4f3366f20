@@ -1,0 +1,18 @@
+OrderCalculator.java
+  h_31a27b30e5e2cc 1-115
+ReportGenerator.java
+  h_31a27b30e5e2cc 1-96
+UserDataProcessor.java
+  h_31a27b30e5e2cc 1-69
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "21f5b6cecd58d29a4f2f338b50b8c2f4f3366f20",
+  "prompts": {},
+  "humans": {
+    "h_31a27b30e5e2cc": {
+      "author": "Tetiana Pushchalo <tetiana_pushchalo@epam.com>"
+    }
+  }
+}
